@@ -1,9 +1,3 @@
-//=========================================================//
-// JavaScript must die.
-// No way to implement a simple 'sleep' function.
-// You guys really suck.
-//=========================================================//
-
 // Settings.
 const backendHost = "localhost";
 const backendPort = 2000;
