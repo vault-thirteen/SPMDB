@@ -1,9 +1,10 @@
 ## SPMDB
+
 ### Simple Portable Movie DataBase
 
 A simple portable database for storing information about movies.
 
-This database in based on SQLite database.
+This database in based on _SQLite_ database.
 
 This project was created to use a web browser, let it not be a surprise, to 
 browse a collection of video files with a web browser. As the experiment has 
